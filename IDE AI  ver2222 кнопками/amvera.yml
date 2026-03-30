@@ -2,7 +2,7 @@ meta:
   environment: node
   toolchain:
     name: browser
-    version: 18
+    version: 18 +
             - имя: Загрузить артефакт сборки
   используется: actions/upload-artifact@v3.2.2
   с:
